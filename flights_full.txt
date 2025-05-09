@@ -1,0 +1,14 @@
+101 PIA Commercial Arrival North 0
+102 PIA Commercial Arrival South 1
+103 PIA Commercial Departure East 2
+104 PIA Commercial Departure West 3
+105 AirBlue Commercial Arrival North 1
+106 AirBlue Commercial Arrival South 2
+107 AirBlue Commercial Departure East 3
+108 AirBlue Commercial Departure West 4
+109 FedEx Cargo Arrival East 0
+110 FedEx Cargo Departure West 1
+111 Pakistan Airforce Emergency Arrival North 2
+112 Blue Dart Cargo Departure East 2
+113 Blue Dart Cargo Arrival West 3
+114 AghaKhan Air Emergency Arrival South 5
